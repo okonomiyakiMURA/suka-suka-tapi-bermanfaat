@@ -1,0 +1,5 @@
+      Help—I’ve never used version control, Git, or GitHub before!
+      
+1) Git Documentation: everything you need to know about version control and how to get started with Git
+2) GitHub Help: everything you need to know about GitHub
+3) Any questions about GitHub? Visit the GitHub Community Forum.
