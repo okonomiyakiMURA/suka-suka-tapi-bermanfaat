@@ -1,3 +1,6 @@
+      
+Daftar Pustaka : https://itch.io/jam/game-off-2020
+      
       Help—I’ve never used version control, Git, or GitHub before!
       
 1) Git Documentation: everything you need to know about version control and how to get started with Git
